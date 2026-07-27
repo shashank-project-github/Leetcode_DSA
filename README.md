@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
