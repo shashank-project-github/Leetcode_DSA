@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
 | ------- |
@@ -81,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
