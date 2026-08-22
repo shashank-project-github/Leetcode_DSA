@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shashank-project-github/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
