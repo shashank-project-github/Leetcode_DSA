@@ -7,7 +7,7 @@ class Solution(object):
             slow = slow.next
             fast = fast.next.next
 
-            if slow == fast :
+            if slow == fast:
                 return True
-
-        return False 
+        
+        return False
